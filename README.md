@@ -2,7 +2,7 @@
 
 This repository contains MATLAB scripts and data files supporting the following publication:
 
-> **How much is enough? Considerations for functional connectivity data acquisition in pediatric and adult populations**
+> **How much is “enough”? Considerations for functional connectivity reliability in pediatric naturalistic fMRI**
 > Author: Shefali Rai; doi: https://doi.org/10.1162/IMAG.a.117
 
 ---
